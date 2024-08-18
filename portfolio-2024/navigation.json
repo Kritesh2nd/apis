@@ -1,0 +1,28 @@
+{
+  "navigation-link": [
+    {
+      "id": 0,
+      "name": "Dummy",
+      "link": "dummy",
+      "display": false
+    },
+    {
+      "id": 1,
+      "name": "About",
+      "link": "about",
+      "display": true
+    },
+    {
+      "id": 2,
+      "name": "My Work",
+      "link": "my-work",
+      "display": true
+    },
+    {
+      "id": 3,
+      "name": "Contact",
+      "link": "contact",
+      "display": true
+    }
+  ]
+}
